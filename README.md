@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://github.com/EAGhislain/Hunger-Captain) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/nathaliafguedes/Hunger-Captain.git
+1. Git Clone https://github.com/EAGhislain/Hunger-Captain.git
 
 ```
 git clone 
